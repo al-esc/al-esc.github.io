@@ -1,0 +1,2 @@
+import{S as t,i as e,s,a,e as o,c as n,f as i,g as r}from"./index-c196448c.js";function u(t){var e,s,u,c;return{c(){e=a(),(s=o("h1")).textContent="About this site",u=a(),(c=o("p")).textContent="This is the 'about' page. There's not much here.",document.title="About"},m(t,a){n(t,e,a),n(t,s,a),n(t,u,a),n(t,c,a)},p:i,i:i,o:i,d(t){t&&(r(e),r(s),r(u),r(c))}}}export default class extends t{constructor(t){super(),e(this,t,null,u,s,[])}}
+//# sourceMappingURL=About-9b0fde1f.js.map
