@@ -12,6 +12,9 @@ body {
   width: 100%;
   height: 40em;
 }
+textarea:focus {
+  outline: none;
+}
 .terminal {
   display: block;
   box-sizing: border-box;
