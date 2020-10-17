@@ -7,7 +7,7 @@
     "build": "sapper build",
     "export": "sapper export",
     "start": "node __sapper__/build",
-    "deploy": "npm run export && node ./scripts/gh-pages.js"
+    "deploy": "npm run export && gh-pages -d '__sapper__/export' -b 'deploy'"
   },
   "dependencies": {
     "compression": "^1.7.1",
